@@ -9,7 +9,7 @@
   
   inputs.src-tempdir-v1_0_1.flake = false;
   inputs.src-tempdir-v1_0_1.owner = "euantorano";
-  inputs.src-tempdir-v1_0_1.ref   = "refs/tags/v1.0.1";
+  inputs.src-tempdir-v1_0_1.ref   = "v1_0_1";
   inputs.src-tempdir-v1_0_1.repo  = "tempdir.nim";
   inputs.src-tempdir-v1_0_1.type  = "github";
   
