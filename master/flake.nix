@@ -11,6 +11,7 @@
   inputs.src-tempdir-master.ref   = "refs/heads/master";
   inputs.src-tempdir-master.owner = "euantorano";
   inputs.src-tempdir-master.repo  = "tempdir.nim";
+  inputs.src-tempdir-master.dir   = "";
   inputs.src-tempdir-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
